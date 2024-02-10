@@ -2,4 +2,4 @@
 #EXTINF:-1 group-title="groupName=常用",珠江台
 http://116.30.192.184:18888/udp/239.77.0.1:5146
 #EXTINF:-1 group-title="groupName=常用",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
