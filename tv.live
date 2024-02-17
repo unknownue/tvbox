@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="groupName=常用",珠江台
-http://116.11.156.83:8181/tsfile/live/1003_1.m3u8
+http://14.121.146.88:30001/udp/239.77.0.1:5146
 #EXTINF:-1 group-title="groupName=常用",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 
